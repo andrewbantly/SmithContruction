@@ -1,0 +1,11 @@
+{
+  "name": "smithcontruction",
+  "version": "1.0.0",
+  "description": "Add background to project in this file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
